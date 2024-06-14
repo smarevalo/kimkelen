@@ -1,0 +1,140 @@
+.header_row .title {
+    padding-top: 2em;
+}
+
+.analytical
+{
+    padding: 2em;
+}
+
+#header_analytical_data_left
+{
+    float: left;
+    width: 15%;
+}
+#header_analytical_data_right
+{
+    width: 20%;
+    float: right;
+    text-align: center;
+}
+#header_analytical_data_center
+{
+    width: 60%;
+    text-align: center;
+}
+#header_analytical_data_center h1
+{
+    display: inline;
+    background-color: white;
+    border-bottom: none;
+    border-top: none;
+    margin: 0;
+    padding: 0;
+}
+
+.title dd.detail{
+    font-weight: normal;
+    padding-left: 1em;
+}
+#header_analytical_data_center h1 small
+{
+    display: block;
+    font-weight: normal;
+}
+.analytical hr
+{
+    margin: 0;
+    border-color: black;
+    border-style: solid;
+}
+#analytical_footer
+{
+    font-size: 14px;
+    clear: both;
+    float: left;
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+    width: 100%;
+}
+.report-content {
+    float: left;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    width: 100%;
+}
+
+.school_logo
+{
+    float: left;
+    width: 8%;
+}
+
+.school_logo_analytical
+{
+    /*align-content: left;*/
+    /*margin-left: 80px;*/
+    /*float: left;*/
+    /*width: 80px;*/
+    height: 80px;
+}
+
+#promedio_gral
+{
+    text-align: center; 
+    width: 33%  !important; 
+    margin-left: 33%  !important;
+    font-weight: bold;
+    font-size: 15px;
+}
+#promedio_gral_valor
+{
+    border: 1px solid;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+#analytic_signatures .signature
+{
+    float: left;
+    width: 39%;
+    height: 2em;
+    text-align: center;
+    padding-top: 5em;
+    border: 0px solid;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 1em;
+    margin-bottom: 0em;
+
+}
+
+.analytical_body_table {
+    font-size: 13px;
+}
+
+#analytical_column_table {
+    font-size: 15px;
+}
+
+.header-text
+{
+    font-size: 14px;
+}
+
+.analytical-form
+{
+    display: inline-grid;
+    font-size: 15px;
+    font-weight: bold; 
+}
+.escudo_conag_analytical
+{
+    /*align-content: left;*/
+    /*margin-left: 80px;*/
+    /*float: left;*/
+    /*width: 80px;*/
+    height: 60px;
+}
+
